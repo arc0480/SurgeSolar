@@ -1,0 +1,8 @@
+name: Surge-Solar
+displayName: " solar panel."
+author:"ark"
+description: "aaa"
+version: "1.0"
+minGameVersion: "136"
+dependencies: [ ]
+hidden: false
