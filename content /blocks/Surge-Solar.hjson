@@ -5,7 +5,7 @@ type:SolarGenerator
 name: Surge-Solar
 
 //説明
-description: サージ合金製の上質なソーラーパネル.
+description: "サージ合金製の上質なソーラーパネル."
 
 //施設のサイズ
 size: 4
