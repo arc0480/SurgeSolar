@@ -31,7 +31,7 @@ research: solar-panel
 
 //発電量 効率が1.0の場合、1ティックあたりに生成される電力量。これは100％に相当します。
 //ソーラー専用？
-powerProduction: 100000.0
+powerProduction: 10.0
 
 //trueの場合、建物にはPowerModuleがあります。
 //hasPower: true
