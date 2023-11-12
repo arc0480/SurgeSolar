@@ -2,7 +2,7 @@
 type:SolarGenerator
 
 //施設の名前
-name: Surge-Solar
+name: SurgeSolar
 
 //説明
 description: "サージ合金製の上質なソーラーパネル."
