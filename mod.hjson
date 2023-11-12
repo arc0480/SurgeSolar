@@ -1,0 +1,7 @@
+name: "Surge-Solar"
+author:"ark"
+displayName: "Surge-Solar panel."
+description: "Surge-Solar panel."
+version: "1.0"
+minGameVersion: 145.1
+hidden: false
