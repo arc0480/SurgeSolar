@@ -1,0 +1,61 @@
+//ソーラーパネルを基準にする
+type:SolarGenerator
+
+//施設の名前
+name: SurgeSolar
+
+//説明
+description: "サージ合金製の上質なソーラーパネル."
+
+//施設のサイズ
+size: 4
+
+//このブロックを構築するためのコスト。
+requirements: [
+		surge-alloy/30 
+		titanium/80 
+		silicon/50 
+		copper/50
+	]
+//どこのカテゴリに配置するか　電気、ドリル、壁、etc、、、
+category: power
+
+//研究をするか否か　trueでアンロック
+alwaysUnlocked:true
+
+//テックツリーのどこにぶら下げるか
+research: solar-panel
+
+//体力
+//health: 1000
+
+//発電量 効率が1.0の場合、1ティックあたりに生成される電力量。これは100％に相当します。
+//ソーラー専用？
+powerProduction: 100000.0
+
+//trueの場合、建物にはPowerModuleがあります。
+//hasPower: true
+//outputsPower: true
+//consumesPower: true
+
+//trueの場合、建物にはItemModuleがあります。
+//hasItems: false
+
+//trueの場合、建物にはLiquidModuleがあります。
+//hasLiquids: false
+
+//作成時間?
+//craftTime: 60
+
+//破壊可能か
+//destructible: true
+
+//ドリル中にランダムに再生される効果。
+//updateEffect: smeltsmoke
+
+//consumesはよくわからん
+//consumes: {
+//	power: 1.0
+//	  }
+
+
